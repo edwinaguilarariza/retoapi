@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    width: 100%;
+    margin-top: 0;
+    
+}
+.headerStyle{
+    color: rgb(146, 192, 235);
+    height: 80px;
+}
+.datopersonajes{
+    margin-top: 140px;
+    
+}
+.contenedor{
+    margin-top: 60px;
+}
